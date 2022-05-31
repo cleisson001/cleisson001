@@ -6,9 +6,9 @@
 
 ### SOFT SKILLS:
 
-➡️Organização
-➡️Trabalho em Equipe
-➡️Fácil Aprendizagem... 
+- ✔️Organização
+- ✔️Trabalho em Equipe
+- ✔️Fácil Aprendizagem... 
 
   ##
 
