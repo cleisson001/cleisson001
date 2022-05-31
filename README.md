@@ -4,7 +4,7 @@
 - 📖 Estudando Teste de Software (QA)
 - 👨‍💻 Profissional da área de TI em transição de carreira da Operação para Teste de Software (QA) com o compromisso de entregar o melhor resultado aos clientes, na busca de constante evolução do serviço.
 
-### SOFT SKILLS:
+### Soft Skills:
 
 - ✔️Organização
 - ✔️Trabalho em Equipe
