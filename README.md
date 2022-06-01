@@ -2,7 +2,7 @@
 
 - 💻Hoje trabalho na área de Suporte
 - 📖 Estudando Teste de Software (Automação_CTFL)
-- 👨‍💻 Profissional da área de TI em transição de carreira da Operação para Teste de Software (QA) com o compromisso de entregar o melhor resultado aos clientes, na busca de constante evolução do serviço.
+- 👨‍💻 Profissional da área de TI em transição de carreira da Operação para Teste de Software (QA) com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço.
 
 <div align="center">
   <a href="https://github.com/cleisson001">
