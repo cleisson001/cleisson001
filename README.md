@@ -9,11 +9,7 @@
 - 📖 Estudando Teste de Software (Automação_CTFL)
 - 👨‍💻 Profissional da área de TI em transição de carreira da Operação para Teste de Software (QA) com mais de 4 anos de experiência em TI com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço.
 
-<div align="center">
-  <a href="https://github.com/cleisson001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisson001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
+ 
   ##
   
 <div> 
