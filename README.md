@@ -1,4 +1,9 @@
-### Me chamo Cleisson Silva 👋
+
+### Ola, me chamo Cleisson Silva 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleisson001&label=Profile%20views&color=0e75b6&style=flat" alt="cleisson001" /> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Cleisson%20Silva-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleisson_alvees/)](https://instagram.com/cleisson_alvees/) 
 
 - 💻Hoje trabalho na área de Suporte
 - 📖 Estudando Teste de Software (Automação_CTFL)
