@@ -7,7 +7,7 @@
 
 - 💻Hoje trabalho na área de Suporte
 - 📖 Estudando Teste de Software (Automação_CTFL)
-- 👨‍💻 Profissional da área de TI em transição de carreira da Operação para Teste de Software (QA) com mais de 4 anos de experiência em TI com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço.
+- 👨‍💻 Profissional graduado em Tecnologia em Redes de Computadores. Experiência profissional de 5 anos em Tecnologia da Informação com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço. Profissional altamente capacitado para Trabalho em Equipe. Organizado, comunicativo e motivado.
 
  
   ##
