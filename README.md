@@ -5,9 +5,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cleisson%20Silva-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonsilva/)](https://www.linkedin.com/in/cleissonsilva/)
 
-- 💻Hoje trabalho na área de Suporte
-- 📖 Estudando Teste de Software (Automação_CTFL)
-- 👨‍💻 Profissional graduado em Tecnologia em Redes de Computadores. Experiência profissional de 5 anos em Tecnologia da Informação com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço. Profissional altamente capacitado para Trabalho em Equipe. Organizado, comunicativo e motivado.
+- 💻TRAINEE da Qa.Coders (Academy)
+- 👨‍💻 Profissional graduado em Tecnologia em Redes de Computadores. Experiência profissional em Tecnologia da Informação com o compromisso de entregar o melhor resultado, na busca de constante evolução do serviço. Profissional altamente capacitado para Trabalho em Equipe. Organizado, comunicativo e motivado.
 
  
   ##
