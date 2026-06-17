@@ -5,8 +5,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cleisson%20Silva-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonsilva/)](https://www.linkedin.com/in/cleissonsilva/)
 
-- 💻 CTFL | ITIL4 | Postman | Analista de Teste | QA |
-- 👨‍💻 Profissional graduado em Tecnologia em Redes de Computadores e MBA em Gestão da Qualidade de Software. Possuo experiência profissional em Tecnologia da Informação, com o compromisso de entregar os melhores resultados e em busca da constante evolução do serviço. Sou um profissional altamente capacitado para trabalhar em equipe, além de ser organizado, comunicativo e motivado.
+- 💻 Analista de TI | IT Operations & ITSM | AZ-900 | ITIL4 | OCNA (R&S / Wireless) | Monitoramento Zabbix | ISTQB CTFL
+- 👨‍💻 Profissional de Tecnologia da Informação com experiência em Suporte Técnico, Central de Serviços (Service Desk) e Infraestrutura de TI, atuando em ambientes corporativos de diferentes portes.
+ 
+Ao longo da minha trajetória, trabalhei com plataformas ITSM como GLPI, Qualitor e Citsmart, além da administração de identidades, acessos e serviços Microsoft, incluindo Active Directory, Microsoft Entra ID, Exchange Online e Microsoft 365. Também possuo experiência em monitoramento de ambientes com Zabbix, contribuindo para a estabilidade, disponibilidade e performance dos serviços de TI.
+ 
+Tenho certificação ITIL 4 Practitioner, reforçando meu compromisso com boas práticas de gestão de serviços e governança de TI.
+ 
+Meu objetivo é entregar uma experiência eficiente e humanizada aos usuários, contribuir para a evolução dos serviços tecnológicos e apoiar a transformação da TI em uma área cada vez mais estratégica, proativa e orientada a resultados dentro das organizações.
 
  
   ##
