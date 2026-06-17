@@ -14,7 +14,37 @@ Ao longo da minha trajetória, trabalhei com plataformas ITSM como GLPI, Qualito
 Tenho certificação ITIL 4 Practitioner, reforçando meu compromisso com boas práticas de gestão de serviços e governança de TI.
  
 Meu objetivo é entregar uma experiência eficiente e humanizada aos usuários, contribuir para a evolução dos serviços tecnológicos e apoiar a transformação da TI em uma área cada vez mais estratégica, proativa e orientada a resultados dentro das organizações.
+## 🏅 Certificações / Certifications
 
+<table>
+  <tr>
+    <td><strong>Qualidade & Engenharia de Testes (QA)</strong></td>
+    <td>
+      • 🏆 <strong>ISTQB® CTFL</strong> - Certified Tester Foundation Level<br>
+      • 🔬 <strong>CertiProf SFPC</strong> - Scrum Foundation Professional Certification
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Infraestrutura</strong></td>
+    <td>
+      • ☁️ <strong>Microsoft AZ-900</strong> - Azure Fundamentals<br>
+      • 🌐 <strong>TP-Link OCNA</strong> - Omada Certified Network Administrator Wireless
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Governança & Práticas de TI (ITSM)</strong></td>
+    <td>
+      • 📋 <strong>PeopleCert ITIL® 4 Practitioner</strong> - Service Desk<br>
+      • 📖 <strong>PeopleCert ITIL® 4 Foundation</strong>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Segurança da Informação</strong></td>
+    <td>
+      • 🛡️ <strong>CertiProf CAPC</strong> - Cybersecurity Awareness Professional Certification
+    </td>
+  </tr>
+</table>
  
   ##
   
