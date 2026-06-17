@@ -11,20 +11,15 @@
 
 ### 📑 Sobre Mim
 
-Profissional de Tecnologia da Informação com experiência em Suporte Técnico, Central de Serviços (Service Desk) e Infraestrutura de TI, atuando em ambientes corporativos de diferentes portes. Atualmente, expando minha atuação com foco em **Garantia de Qualidade (QA)** e automação de testes.
+Profissional de Tecnologia da Informação com experiência em Suporte Técnico, Central de Serviços (Service Desk) e Infraestrutura de TI, atuando em ambientes corporativos de diferentes portes. 
  
-Ao longo da minha trajetória, trabalhei com plataformas ITSM como GLPI, Qualitor e Citsmart, além da administração de identidades, acessos e serviços Microsoft, incluindo Active Directory, Microsoft Entra ID, Exchange Online e Microsoft 365. Também possuo experiência em monitoramento de ambientes com Zabbix, contribuindo para a estabilidade, disponibilidade e performance dos serviços de TI.
+Ao longo da minha trajetória, trabalhei com plataformas ITSM como GLPI, Qualitor e Citsmart, além da administração de identidades, acessos e serviços Microsoft, incluindo Active Directory, Microsoft Entra ID, Exchange Online e Microsoft 365. Também possuo experiência em monitoramento de ambientes com Zabbix, contribuindo para a estabilidade, availability e performance dos serviços de TI.
  
 Meu objetivo é entregar uma experiência eficiente e humanizada aos usuários, contribuir para a evolução dos serviços tecnológicos e apoiar a transformação da TI em uma área cada vez mais estratégica, proativa e orientada a resultados.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas / Skills
-
-**Garantia de Qualidade (QA) & Testes:**
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=69D3A7)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Infraestrutura, Cloud & Monitoramento:**
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
